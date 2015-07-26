@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Search.js">
+    <Files>
+      <File FileName="Assets\Scripts\Search.js" Line="113" Column="27" />
+      <File FileName="Assets\Scripts\Changer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MovePacman.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Node.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NTree.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Meats.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B5D6126D-09D7-5FA7-FAF9-FCDBE48511CA}") = "Final maze", "Assembly-CSharp.csproj", "{6B889CC4-B36C-FC3C-8C54-D06AD632C198}"
+EndProject
+Project("{B5D6126D-09D7-5FA7-FAF9-FCDBE48511CA}") = "Final maze", "Assembly-UnityScript.unityproj", "{FCD2C0E1-DD33-73C0-B8D3-06BDA2B9B8C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B889CC4-B36C-FC3C-8C54-D06AD632C198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B889CC4-B36C-FC3C-8C54-D06AD632C198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B889CC4-B36C-FC3C-8C54-D06AD632C198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B889CC4-B36C-FC3C-8C54-D06AD632C198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD2C0E1-DD33-73C0-B8D3-06BDA2B9B8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD2C0E1-DD33-73C0-B8D3-06BDA2B9B8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD2C0E1-DD33-73C0-B8D3-06BDA2B9B8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD2C0E1-DD33-73C0-B8D3-06BDA2B9B8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																								GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
